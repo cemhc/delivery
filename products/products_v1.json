@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "MASTER CEM 400+",
+    "shortDescription": "",
+    "fullDescription": "Фундаменты жилых домов и ограждений\nКладочные растворы для кирпича и блока\nВнутренняя и фасадная штукатурка\nПешеходные дорожки, площадки\nБетонные и железобетонные конструкции",
+    "manufacturer": "КаспийЦемент, ШымкентЦемент",
+    "smallImageUrl": "https://raw.githubusercontent.com/cemhc/delivery/master/images/400.jpg",
+    "largeImageUrl": "https://raw.githubusercontent.com/cemhc/delivery/master/images/400.jpg",
+    "certificateUrl": "https://www.cem.kz/",
+    "orderUrl": "https://cemhc.kz/form_standart"
+  },
+  {
+    "id": 2,
+    "name": "PROFI CEM 450+",
+    "shortDescription": "",
+    "fullDescription": "Колонны, несущие стены, перекрытие\nАвтомобильные стоянки и подъездные пути\nСтяжка пола для промышленных\nи общественных зданий\nТротуарная плитка, газобетон, пенобетон",
+    "manufacturer": "БЦК, КаспийЦемент, ШымкентЦемент",
+    "smallImageUrl": "https://raw.githubusercontent.com/cemhc/delivery/master/images/450.jpg",
+    "largeImageUrl": "https://raw.githubusercontent.com/cemhc/delivery/master/images/450.jpg",
+    "certificateUrl": "https://www.cem.kz/",
+    "orderUrl": "https://cemhc.kz/form_standart"
+  },
+  {
+    "id": 3,
+    "name": "EXTRA CEM 500+",
+    "shortDescription": "",
+    "fullDescription": "Фундаменты жилых домов, зданий\nи ответственных конструкций\nМонолитное строительство\nКолонны, несущие стены, перекрытия из высоких марок бетона",
+    "manufacturer": "КаспийЦемент",
+    "smallImageUrl": "https://raw.githubusercontent.com/cemhc/delivery/master/images/500.jpg",
+    "largeImageUrl": "https://raw.githubusercontent.com/cemhc/delivery/master/images/500.jpg",
+    "certificateUrl": "https://www.cem.kz/",
+    "orderUrl": "https://cemhc.kz/form_standart"
+  },
+  {
+    "id": 4,
+    "name": "SULFAT CEM 500+",
+    "shortDescription": "",
+    "fullDescription": "Для конструкций, эксплуатируемых\nв агрессивной среде\nБассейны, искусственные водоемы,\nводоочистные сооружения\nСтяжка пола для промышленных\nи общественных зданий",
+    "manufacturer": "КаспийЦемент",
+    "smallImageUrl": "https://raw.githubusercontent.com/cemhc/delivery/master/images/500sc.jpg",
+    "largeImageUrl": "https://raw.githubusercontent.com/cemhc/delivery/master/images/500sc.jpg",
+    "certificateUrl": "https://www.cem.kz/",
+    "orderUrl": "https://cemhc.kz/form_standart"
+  }
+]
